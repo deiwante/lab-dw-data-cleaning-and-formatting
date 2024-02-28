@@ -1,5 +1,4 @@
 Customer,State,Gender,Education,Customer_Lifetime_Value,Income,Monthly_Premium_Auto,Number_of_Open_Complaints,Policy_Type,Vehicle_Class,Total_Claim_Amount
 TM65736,Oregon,M,Master,305955,38644,78,1,Personal Auto,Four-Door Car,361
-VJ51327,Cali,F,High School or Below,2031499,63209,102,2,Personal Auto,SUV,207
 GS98873,Arizona,F,Bachelor,323912,16061,88,0,Personal Auto,Four-Door Car,633
 MY31220,California,F,College,899704,54230,112,0,Personal Auto,Two-Door Car,537
